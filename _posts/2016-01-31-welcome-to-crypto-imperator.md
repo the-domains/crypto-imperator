@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T12:40:51.677Z'
-dateModified: '2016-01-31T12:40:49.295Z'
+datePublished: '2016-01-31T12:43:29.780Z'
+dateModified: '2016-01-31T12:43:19.996Z'
 title: Welcome to Crypto Imperator
 author: []
 sourcePath: _posts/2016-01-31-welcome-to-crypto-imperator.md
