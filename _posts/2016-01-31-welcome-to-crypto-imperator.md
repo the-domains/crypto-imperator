@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-31T12:35:34.337Z'
-dateModified: '2016-01-31T12:35:24.317Z'
+datePublished: '2016-01-31T12:40:51.677Z'
+dateModified: '2016-01-31T12:40:49.295Z'
 title: Welcome to Crypto Imperator
 author: []
+sourcePath: _posts/2016-01-31-welcome-to-crypto-imperator.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-welcome-to-crypto-imperator.md
-published: true
-url: welcome-to-crypto-imperator/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Welcome to Crypto Imperator
