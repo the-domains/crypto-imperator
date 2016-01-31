@@ -1,7 +1,7 @@
 name: Crypto Imperator
 favicon: null
 layout_spectrum: 0.4084655772894621
-typography_spectrum: 0.04327050130814314
+typography_spectrum: 0.67692
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#060604'
+    - '#ffffff'
+    - '#d08230'
+    - '#8b3c03'
+    - '#f4d984'
   brandStrength: 0.5795180983841419
-  lightness: 0.46316127851605415
+  lightness: 0.625
   saturation: 0.3019807552918792
   rhythmicContrast: 0.053181424271315336
 purpose: []
