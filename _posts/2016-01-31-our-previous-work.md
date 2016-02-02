@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T20:48:46.293Z'
-dateModified: '2016-02-02T20:48:42.976Z'
+datePublished: '2016-02-02T20:50:48.636Z'
+dateModified: '2016-02-02T20:50:46.031Z'
 title: Our previous work
 author: []
 sourcePath: _posts/2016-01-31-our-previous-work.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: our-previous-work/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Our previous work
