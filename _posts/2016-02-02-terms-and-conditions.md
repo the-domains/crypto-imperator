@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T20:55:21.503Z'
-dateModified: '2016-02-02T20:55:18.352Z'
+datePublished: '2016-02-02T20:57:41.171Z'
+dateModified: '2016-02-02T20:57:36.603Z'
 title: Terms and Conditions
 author: []
 sourcePath: _posts/2016-02-02-terms-and-conditions.md
