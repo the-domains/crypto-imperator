@@ -1,6 +1,6 @@
 name: Crypto Imperator
 favicon: null
-layout_spectrum: 0.4084655772894621
+layout_spectrum: 0.48713
 typography_spectrum: 0.67692
 title: Crypto Imperator
 cta:
@@ -22,7 +22,7 @@ color:
     - '#110a04'
     - '#c4c1ae'
     - '#fde087'
-  brandStrength: 0.0625
+  brandStrength: 0.125
   lightness: 0.625
   saturation: 0.3019807552918792
   rhythmicContrast: 0.053181424271315336
