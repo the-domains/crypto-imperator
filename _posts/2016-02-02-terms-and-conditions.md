@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T20:53:09.107Z'
-dateModified: '2016-02-02T20:52:52.841Z'
+datePublished: '2016-02-02T20:55:21.503Z'
+dateModified: '2016-02-02T20:55:18.352Z'
 title: Terms and Conditions
 author: []
+sourcePath: _posts/2016-02-02-terms-and-conditions.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-02-terms-and-conditions.md
-published: true
 url: terms-and-conditions/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Terms and Conditions
